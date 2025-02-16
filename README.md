@@ -1,6 +1,6 @@
 # AstroCheats
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/AstroCheats?style=social)](https://github.com/your-username/AstroCheats/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/UalfTV/AstroCheats?style=social)](https://github.com/UalfTV/AstroCheats/stargazers)
 [![Discord](https://img.shields.io/discord/your-discord-id.svg?logo=discord)](https://discord.gg/MRHhDZDPMs)
 
 **AstroCheats** is a powerful script hub for Roblox, offering over **310 scripts** for a wide variety of Roblox games. This hub is designed to optimize and enhance your Roblox gameplay experience.
